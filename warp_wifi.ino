@@ -21,7 +21,7 @@ unsigned long time_light_update = 0;
 unsigned long time_pulse_delay = 0;
 
 const char* ssid = "Warp Core";
-const char* password = "agilexwifi"; // has to be longer than 7 chars
+const char* password = "jasmineislovins"; // has to be longer than 7 chars
 
 CRGB leds[NUM_LEDS];
 CRGB primaryColor = CRGB(95,255,255);
